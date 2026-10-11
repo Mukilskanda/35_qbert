@@ -89,3 +89,13 @@ Submission is only the following three things:
 - [] A 10-second video of gameplay **before** your changes, showing the bug/broken behavior
 - [] A 10-second video of gameplay **after** your changes, showing the bug fixed and the new features working
 - [] The Chat/LLM used page link, with the complete chat history
+
+
+---
+
+## Submission (Mukil Skanda A, PES1UG24CS281)
+
+- Before video: [before.mp4](before.mp4)
+- After video: [after.mp4](after.mp4)
+- Chat / LLM used (full chat history): https://claude.ai/share/de7c547f-f95c-4edd-aec2-2da7a16a98f6
+- Chat history PDF: [chat_history.pdf](chat_history.pdf)
